@@ -1,6 +1,7 @@
 # 💊 Aushadhi Lens (औषधि लेंस)
 ### Multimodal Medication Safety & Decision-Support Assistant
 
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_Aushadhi_Lens_Now-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://aushadhi-lens-app.vercel.app/)
 [![IEEE RGIPT QUAL-AI-01](https://img.shields.io/badge/IEEE%20RGIPT-QUAL--AI--01-0F766E?style=for-the-badge&logo=ieee&logoColor=white)](https://kodekurrent.ieeergipt.in/)
 [![Responsible AI Grounded](https://img.shields.io/badge/Responsible%20AI-100%25%20On--Device-10B981?style=for-the-badge&logo=shield&logoColor=white)](#-responsible-ai--governance)
 [![React 19](https://img.shields.io/badge/React-19.2-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
@@ -8,7 +9,9 @@
 [![Android APK Available](https://img.shields.io/badge/Android-APK%20Included-3DDC84?style=for-the-badge&logo=android&logoColor=white)](./Aushadhi-Lens.apk)
 [![License: MIT](https://img.shields.io/badge/License-MIT-amber?style=for-the-badge)](LICENSE)
 
-> **Transforming unreadable medicine packaging into explainable, voice-guided safety decisions for everyday Indian households—with 100% on-device privacy.**
+> 🌐 **Live Web Application:** **[https://aushadhi-lens-app.vercel.app/](https://aushadhi-lens-app.vercel.app/)**  
+> 📱 **Android APK:** [Download Aushadhi-Lens.apk (4.4 MB)](./Aushadhi-Lens.apk)  
+> 🛡️ **Theme:** Transforming unreadable medicine packaging into explainable, voice-guided safety decisions for everyday Indian households—with 100% on-device privacy.
 
 ---
 
